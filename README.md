@@ -1,4 +1,4 @@
-<img align='left' src="https://avatars.githubusercontent.com/u/56423111?v=4" width="240" style="border-radius: 50%;">
+<img align='left' src="" width="240" style="border-radius: 50%;">
 
 
 <h2> Hi, I'm Yazhinni R!👋 </h2>
