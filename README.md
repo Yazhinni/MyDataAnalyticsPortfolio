@@ -1,4 +1,4 @@
-<img align='left' src="" width="240" style="border-radius: 50%;">
+<img align='left' src="blob:https://web.telegram.org/f80231b4-6a15-43f9-85d4-af2ee81469a0" width="240" style="border-radius: 50%;">
 
 
 <h2> Hi, I'm Yazhinni R!👋 </h2>
