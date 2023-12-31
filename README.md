@@ -1,6 +1,3 @@
-<img align='left' src="blob:https://web.telegram.org/f80231b4-6a15-43f9-85d4-af2ee81469a0" width="240" style="border-radius: 50%;">
-
-
 <h2> Hi, I'm Yazhinni R!👋 </h2>
 
 <h3># Welcome to my Github Portfolio</h3>
@@ -66,7 +63,6 @@
     <a href="https://github.com/Yazhinni/MyDataAnalyticsPortfolio/tree/main/POWER%20BI/Pizza_Sales_Analysis">
       <img src="https://i.imgur.com/AL0EuTK.png" title="source: imgur.com" width="310" height="160" />
     </a>
-  </div>
 </div>
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
