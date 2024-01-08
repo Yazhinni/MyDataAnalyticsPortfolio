@@ -46,49 +46,48 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 
-### 💻 Projects : 
+### 💻 Projects:
 ![Power Bi](https://img.shields.io/badge/power_bi_projects-F2C812?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<div style="display: flex; align-items: center; justify-content: space-around;">
- <div style="text-align: center;">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+
+  <div style="text-align: center;">
     <h2 style="font-size: 15px;">Nike Sneaker's Library 👟</h2>
     <a href="https://github.com/Yazhinni/MyDataAnalyticsPortfolio/tree/main/POWER%20BI/Nike_DA">
       <img src="https://i.imgur.com/N4HZUZm.png" title="source: imgur.com" width="310" height="160" />
     </a>
   </div>
-</div>
-&nbsp;
-<div style="text-align: center;">
+
+  <div style="text-align: center;">
     <h2 style="font-size: 15px;">Sizzling Insights: A Delectable Dive into Pizza Sales 🍕📊</h2>
     <a href="https://github.com/Yazhinni/MyDataAnalyticsPortfolio/tree/main/POWER%20BI/Pizza_Sales_Analysis">
       <img src="https://i.imgur.com/AL0EuTK.png" title="source: imgur.com" width="310" height="160" />
     </a>
-</div>
+  </div>
 
-<div style="display: flex; align-items: center; justify-content: space-around;">
   <div style="text-align: center;">
-    <h1 style="font-size: 15px;">Cricket Carnival: ICICI Men's World Cup 2023 Unleashed! 🏏🏆</h1>
+    <h2 style="font-size: 15px;">Cricket Carnival: ICICI Men's World Cup 2023 Unleashed! 🏏🏆</h2>
     <a href="https://github.com/Yazhinni/MyDataAnalyticsPortfolio/tree/main/POWER%20BI/ICC_Cricket_worldcup_Analysis">
       <img src="https://i.imgur.com/eyOngg1.png" title="source: imgur.com" width="310" height="160" />
     </a>
   </div>
 
   <div style="text-align: center;">
-    <h1 style="font-size: 15px;">Customer End to End Sales Analysis 📊</h1>
+    <h2 style="font-size: 15px;">Customer End to End Sales Analysis 📊</h2>
     <a href="https://github.com/Yazhinni/MyDataAnalyticsPortfolio/tree/main/POWER%20BI/Customer_End_2_End_sales_Data_Analysis">
       <img src="https://i.imgur.com/s3sd1nm.png" title="source: imgur.com" width="310" height="160" />
     </a>
   </div>
-</div>
 
- <div style="text-align: center;">
-    <h1 style="font-size: 15px;">Myntra Sales Analysis 🛍️📊</h1>
+  <div style="text-align: center;">
+    <h2 style="font-size: 15px;">Myntra Sales Analysis 🛍️📊</h2>
     <a href="https://github.com/Yazhinni/MyDataAnalyticsPortfolio/tree/main/POWER%20BI/Myntra_DA">
-      <img src="https://i.imgur.com/s3sd1nm.png" title="source: imgur.com" width="310" height="160" />
+      <img src="https://i.imgur.com/jxsyUxM.png" title="source: imgur.com" width="310" height="160" />
     </a>
   </div>
+
 </div>
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yazhinni)](https://github.com/notramm/github-readme-stats)
-
-
